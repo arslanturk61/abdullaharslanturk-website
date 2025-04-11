@@ -7,9 +7,8 @@ Bu proje, kişisel portfolyo web sitemdir. Hem kendimi tanıttığım, hem de ge
 - 🏠 Ana sayfası
 - 👨‍💻 Hakkımda sayfası
 - 🛠️ Projelerim bölümü
-- 📝 Blog yazılarım (teknoloji ağırlıklı)
-- 📞 İletişim formu
-- 🌙 Açık/Koyu mod desteği
+- 📝 Blog yazılarım
+- 📞 İletişim formu 
 - 📱 Mobil uyumlu tasarım (responsive)
 - 🚀 SEO uyumlu yapı
 
@@ -30,4 +29,4 @@ Ben bir bilgisayar programcısıyım ve bu web sitesi hem dijital kartvizitim he
 
 ## 📷 Ekran Görüntüleri
 
-(İsteğe bağlı olarak birkaç ekran görüntüsü buraya ekle)
+<!-- (İsteğe bağlı olarak birkaç ekran görüntüsü buraya ekle) -->
